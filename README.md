@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omkar Mali.</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-<img align="right" alt="coading" width="400" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif">
+<img align="right" alt="coading" width="400" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif?format=750w">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarmali111&label=Profile%20views&color=0e75b6&style=flat" alt="omkarmali111" /> </p>
 
 - 🌱 I’m currently learning *Core Java, angular, html, mySQL.*
